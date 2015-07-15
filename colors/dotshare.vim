@@ -10,7 +10,7 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "nucolors"
+let g:colors_name = "dotshare"
 
 " General Colors
 let NormalFG      = '#BBBBBB'
